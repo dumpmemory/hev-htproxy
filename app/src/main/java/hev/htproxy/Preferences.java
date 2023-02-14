@@ -128,11 +128,11 @@ public class Preferences
 	}
 
 	public String getTunnelIpv4Address() {
-		return "10.0.0.2";
+		return "100.64.0.2";
 	}
 
 	public String getTunnelIpv4Gateway() {
-		return "10.0.0.1";
+		return "100.64.0.1";
 	}
 
 	public int getTunnelIpv4Prefix() {
